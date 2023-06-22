@@ -69,5 +69,3 @@ This program is about connecting to a list of bids and allowing the user to perf
 I was able to make the program more suited to anyone's needs by adding additional functionality.  As with the Top Destinations program, this program went from being an example of what a program can do to giving the user full freedom to find any item in any list.  While this program USES databases, the actions performed within are algorithms.  Searching through a list of hundreds to thousands of items to find an item in a matter of milliseconds is far more impressive than what a human can do.
 
 I was not able to incorporate much feedback into this program, as it was a last-minute replacement for another program that I could not improve further.  I tried to flesh it out as much as possible by converting the program from a simple proof-of-concept to a full-fledged program.  I originally had problems getting both the custom bid feature and the custom list feature to work in conjunction with one another.  I resolved this by using curly brackets to enclose each feature.
-
-**You can download this full text, screenshots, and more via the .zip and tar.gz files above.**
