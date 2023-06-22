@@ -1,4 +1,4 @@
 remote_theme: pages-themes/slate@v0.2.0
-show_downloads: true
+show_downloads: false
 title: Michael Haggerty - ePortfolio
 description: A portfolio of improved work for my CS-499 class at Southern New Hampshire University
