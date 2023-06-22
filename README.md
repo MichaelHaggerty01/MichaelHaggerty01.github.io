@@ -10,6 +10,7 @@
 In this class I improved three different programs.
 
 ## 1: Fuzzy Farmer 3D
+[Screenshot](https://github.com/MichaelHaggerty01/MichaelHaggerty01.github.io/blob/f1612836e429a0ff5fc4d5d8c8bd165ce92d88cf/FF3D.png)
 ### Collect Fuzzies before time runs out in this 3D platformer.
 Download the **Original** File **[HERE](https://drive.google.com/file/d/12fmgqrqm7fFhqR-eHYXMu4zJfIwt5JxL/)**
 
