@@ -1,8 +1,8 @@
 # MichaelHaggerty01.github.io
 
 ## Code Review:
-*While I did have other artifacts planned, I ultimately changed due to them being unfeasable.
-However, This can still show my skill at analyzing code.*
+*While I did have other artifacts planned, I ultimately changed due to them being unfeasable.*
+*However, This can still show my skill at analyzing code.*
 [REVIEW LINK](https://drive.google.com/file/d/1P2oWLjikh-stWaZOzWydvHmxgpiPjsVG/view?usp=drive_link)
 
 In this class I improved three different programs.
