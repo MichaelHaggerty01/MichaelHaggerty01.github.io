@@ -11,7 +11,8 @@ In this class I improved three different programs.
 
 ## 1: Fuzzy Farmer 3D
 ### Collect Fuzzies before time runs out in this 3D platformer.
-Download the File **[HERE](https://drive.google.com/file/d/1GKi1U7q7RuK-uhaaUvotmHtQAcQeESDP/view?usp=drive_link)**
+Download the **Original** File **[HERE](https://drive.google.com/file/d/12fmgqrqm7fFhqR-eHYXMu4zJfIwt5JxL/)**
+Download the **Improved** File **[HERE](https://drive.google.com/file/d/1GKi1U7q7RuK-uhaaUvotmHtQAcQeESDP/)**
 ### List of improvements over the original version:
 - Made the walls inescapable
 - Added particle effects
@@ -30,7 +31,7 @@ When developing the program, I had a lot of trouble implementing the “dig” f
 
 ## 2: Top Destinations
 ### List your favorite destinations to visit.
-Download the File **[HERE](https://drive.google.com/file/d/1rMJ3efDqobngNMs93nED3EXpyqUjXrh4/view?usp=drive_link)**
+Download the **Improved** File **[HERE](https://drive.google.com/file/d/1rMJ3efDqobngNMs93nED3EXpyqUjXrh4/view?usp=drive_link)**
 ### List of improvements over the original version:
 - Added a for loop to obtain user input
 - Now allow for users to input images
@@ -48,7 +49,7 @@ My original plan was to use the animal database that I made, as it was the best 
 
 ## 3: Linked List
 ### Search through, add, and delete bids in a list.
-Download the File **[HERE](https://drive.google.com/file/d/1YBdD1nSOSiEKIMvuD10bAvPLY9qT8iHH/view?usp=drive_link)**
+Download the **Improved** File **[HERE](LinkedListV2.zip)**
 ### List of improvements over the original version:
 - Added a way to search for specific bid
 - Added the ability to use any .csv file
