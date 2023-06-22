@@ -10,7 +10,7 @@
 In this class I improved three different programs.
 
 ## 1: Fuzzy Farmer 3D
-[Screenshot](https://github.com/MichaelHaggerty01/MichaelHaggerty01.github.io/blob/f1612836e429a0ff5fc4d5d8c8bd165ce92d88cf/FF3D.png)
+[Screenshot](FF3D.png)
 ### Collect Fuzzies before time runs out in this 3D platformer.
 Download the **Original** File **[HERE](https://drive.google.com/file/d/12fmgqrqm7fFhqR-eHYXMu4zJfIwt5JxL/)**
 
@@ -32,6 +32,7 @@ I set out to create a more solid program.  I am most proud of the new destructio
 When developing the program, I had a lot of trouble implementing the “dig” feature.  I first had to install a new plugin for “apex destruction.”  Next, I repeatedly tried to get the digging feature to work with a single object, but the object would either start destroyed, would not get destroyed, or would have no collision.  I could not find a good fence texture big enough to properly, so I settled on a brick wall that still fits the farm aesthetic.  I learned more than I ever needed to about fracture/destruction physics in Unreal.  I also learned that swapping objects can have many other uses for future projects.
 
 ## 2: Top Destinations
+[Screenshot](TopDest.png)
 ### List your favorite destinations to visit.
 Download the **Original** File **[HERE](Top%20Destinations%20Program%20V1.zip)**
 
@@ -52,6 +53,7 @@ I believe that I met the requirement to “design and evaluate computing solutio
 My original plan was to use the animal database that I made, as it was the best example of a “database” that I had.  Unfortunately, I was unable to get it working because I encountered several errors and I forgot too much about Jupyter Notebook to know what to do.  At first, I originally thought it was going to be nearly impossible to convert a simple widget program to a proper database that can store user input.  I then figured out how to use one program to store input from the user into a database and have it extend the widget program to ensure that the original workings of the program remained intact.  From there, I could use simple if/else loop to add the opening and ending pages.
 
 ## 3: Linked List
+[Screenshot](LL2.png)
 ### Search through, add, and delete bids in a list.
 Download the **Original** File **[HERE](LinkedList%20V1.zip)**
 
