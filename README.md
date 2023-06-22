@@ -37,3 +37,5 @@ Download the File [HERE](https://drive.google.com/file/d/1YBdD1nSOSiEKIMvuD10bAv
 - Added a way to search for specific bid
 - Added the ability to use any .csv file
 - Improved comments
+
+**You can download this text, screenshots, and more via the .zip and tar.gz files above.**
